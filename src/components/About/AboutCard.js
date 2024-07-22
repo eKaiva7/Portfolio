@@ -8,14 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Rishabh Rajput </span>
+           👉🏻 Hi Everyone, I am <span className="purple">Rishabh Rajput </span>
             from <span className="purple"> Bihar, India.</span>
             <br />
-            I am currently working on skill building.
+           👉🏻 I am currently working on skill building.
             <br />
-            I am pursuing Btech CSE from CHITKARA UNIVERSITY
+           👉🏻 I am pursuing Btech CSE from <span className="purple">CHITKARA UNIVERSITY </span>
             <br />
-            RAJPURA,PUNJAB
+            rajpura,punjab
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
