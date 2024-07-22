@@ -13,7 +13,9 @@ function AboutCard() {
             <br />
             I am currently working on skill building.
             <br />
-            I am pursuing Btech CSE from CHITKARA UNIVERSITY,RAJPURA,PUNJAB.
+            I am pursuing Btech CSE from CHITKARA UNIVERSITY
+            <br />
+            RAJPURA,PUNJAB
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
